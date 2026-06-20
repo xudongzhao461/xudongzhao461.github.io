@@ -1,0 +1,1 @@
+Homepage refreshed from the supplied 2026 CV. Public page omits birth date, phone number, exact office location, and the redacted project entry. Publication and award titles were cross-checked against available official sources. The page is responsive and dependency-free.
