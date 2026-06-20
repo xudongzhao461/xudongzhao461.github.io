@@ -1,0 +1,1 @@
+The refreshed homepage should use Files/XudongZhao-2026.jpg or Files/XudongZhao-2026.svg as the supplied portrait.
